@@ -1,0 +1,7 @@
+file1 is now added to ignore again on local.
+hellllooooooo
+<<<<<<< HEAD
+this line is added from develop branch.
+=======
+this line is added from sprint-11 branch.
+>>>>>>> sprint-11
